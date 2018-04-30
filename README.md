@@ -2,16 +2,16 @@
 
 这是我做的一个图书管理工具，主要使用的工具是nodejs+Bootstrap+jQuery
 
-![image](img/index.png)
+![image](https://github.com/Newway1997/ManageBooks/img/index.png)
 
 #### 搜索功能
 
-![image](img/search.png)
+![image](https://github.com/Newway1997/ManageBooks/img/search.png)
 
 
 #### 上传小说
 
-![image](img/upload.png)
+![image](https://github.com/Newway1997/ManageBooks/img/upload.png)
 
 #### 小功能
 1. 小说列表
