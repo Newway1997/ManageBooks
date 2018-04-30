@@ -6,12 +6,12 @@
 
 #### 搜索功能
 
-![image](https://github.com/Newway1997/ManageBooks/blob/master/img/search.png)
+![image](https://github.com/Newway1997/ManageBooks/blob/master/img/search%20.PNG)
 
 
 #### 上传小说
 
-![image](https://github.com/Newway1997/ManageBooks/blob/master/img/upload.png)
+![image](https://github.com/Newway1997/ManageBooks/blob/master/img/upload.PNG)
 
 #### 小功能
 1. 小说列表
