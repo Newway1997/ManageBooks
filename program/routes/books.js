@@ -2,7 +2,6 @@ var express = require('express');
 var router = express.Router();
 var fs=require('fs');
 var path=require('path');
-/* GET users listing. */
 
 var books;
 fs.readFile(path.join(__dirname,'../books.json'),'utf-8',function(err,data) {    //读取用户列表json文件
