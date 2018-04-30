@@ -2,7 +2,7 @@
 
 这是我做的一个图书管理工具，主要使用的工具是nodejs+Bootstrap+jQuery
 
-![image](https://github.com/Newway1997/ManageBooks/img/index.png)
+![image](ManageBooks/img/index.PNG)
 
 #### 搜索功能
 
